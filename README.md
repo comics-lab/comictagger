@@ -96,13 +96,6 @@ winget install ComicTagger.ComicTagger
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/fcanc">
-            <img src="https://avatars.githubusercontent.com/u/4999486?v=4" width="100;" alt="fcanc"/>
-            <br />
-            <sub><b>fcanc</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/lordwelch">
             <img src="https://avatars.githubusercontent.com/u/7547075?v=4" width="100;" alt="lordwelch"/>
             <br />
@@ -121,6 +114,13 @@ winget install ComicTagger.ComicTagger
             <img src="https://avatars.githubusercontent.com/u/27830765?v=4" width="100;" alt="MichaelFitzurka"/>
             <br />
             <sub><b>MichaelFitzurka</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/fcanc">
+            <img src="https://avatars.githubusercontent.com/u/4999486?v=4" width="100;" alt="fcanc"/>
+            <br />
+            <sub><b>fcanc</b></sub>
         </a>
     </td></tr>
 <tr>
