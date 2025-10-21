@@ -218,6 +218,13 @@ winget install ComicTagger.ComicTagger
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/rmleonard">
+            <img src="https://avatars.githubusercontent.com/u/8857469?v=4" width="100;" alt="rmleonard"/>
+            <br />
+            <sub><b>rmleonard</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/thFrgttn">
             <img src="https://avatars.githubusercontent.com/u/39759781?v=4" width="100;" alt="thFrgttn"/>
             <br />
