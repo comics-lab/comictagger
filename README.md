@@ -14,6 +14,12 @@
 
 # ComicTagger
 
+## Agent and Logs
+
+- Agent profile: `AGENTS.md`
+- Logs (local-only): `CONVERSATION.md`, `BOOKMARKS.md`, `Action-Log.md` (when present)
+
+
 ComicTagger is a **multi-platform** app for **writing metadata to digital comics**, written in Python and PyQt.
 
 ![ComicTagger logo](https://raw.githubusercontent.com/comictagger/comictagger/develop/comictaggerlib/graphics/app.png)
